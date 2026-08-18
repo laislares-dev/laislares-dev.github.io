@@ -1,0 +1,15 @@
+title: Laís Lares | Arquiteta & Tech Developer
+description: Portfolio profissional - BIM, Python, Automação
+author: Laís Lares
+email: lareslais@gmail.com
+
+# Build settings
+markdown: kramdown
+theme: null
+
+# URL
+url: https://laislares-dev.github.io
+baseurl: ""
+
+# GitHub
+repository: laislares-dev/laislares-dev.github.io
